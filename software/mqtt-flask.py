@@ -6,7 +6,7 @@ from datetime import datetime
 def connection():
     conn = pymysql.connect(host='localhost',
                             user = 'root',
-                            passwd = 'Bayu@malang1998',
+                            passwd = '',
                             db = 'watermeter')
     c = conn.cursor()
 
