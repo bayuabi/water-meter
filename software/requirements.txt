@@ -1,0 +1,10 @@
+Click==7.0
+Flask==1.0.2
+Flask-MQTT==1.0.5
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+paho-mqtt==1.4.0
+PyMySQL==0.9.3
+typing==3.6.6
+Werkzeug==0.15.2
